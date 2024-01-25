@@ -1,5 +1,5 @@
 {
-  "name": "@ramesttanetwork/meta",
+  "name": "@ramestta/meta",
   "version": "1.0.0",
   "description": "Ramestta network contracts' addresses and ABIs",
   "publishConfig": {

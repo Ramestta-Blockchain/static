@@ -11,11 +11,11 @@ Main branch will be automatically deployed. No other action required.
 
 ### Installation
 ```bash
-$ npm i --save @ramesttanetwork/meta
+$ npm i --save @ramestta/meta
 ```
 ### Usage
 ```javascript
-const Network = require("@ramesttanetwork/meta/network")
+const Network = require("@ramestta/meta/network")
 
 // define network
 const network = new Network("testnet", "v1")
