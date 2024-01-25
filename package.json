@@ -4,7 +4,7 @@
   "description": "Ramestta network contracts' addresses and ABIs",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Blockchain-Ramestta/static.git"
+    "url": "https://github.com/Blockchain-Ramestta/static.git"
   },
   "license": "GNU GPL",
   "scripts": {
