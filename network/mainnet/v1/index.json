@@ -1,0 +1,141 @@
+{
+  "Main": {
+    "NetworkName": "Polygon",
+    "ChainId": 137,
+    "DaggerEndpoint": "",
+    "StakingAPI": "",
+    "Explorer": "https://polygonscan.com",
+    "SubgraphUrl": "",
+    "SupportsEIP1559": true,
+    "Contracts": {
+      "BytesLib": "0xa6479dEc21D912f98D6642eDE416784004b7e7E6",
+      "Common": "0xBd770416a3345F91E4B34576cb804a576fa48EB1",
+      "ECVerify": "0xAA5b7473972800651E7da5B76B415ecAcFF3B6b3",
+      "Merkle": "0x14568a02d226eb519d505902FF71c2aCF7713F0F",
+      "MerklePatriciaProof": "0x5213DC5ea2Db0FC869a96fd847B7902CD6B4AeFD",
+      "PriorityQueue": "0xF527d2CADc9BE1AF4f41DfeD5BC969b9Ff96F1e6",
+      "RLPEncode": "0xc6473B9F0C794A826043E7aD884b06841d5CafF1",
+      "RLPReader": "0xADCb26Ba45B51Ce0B3bF33A52Bca8241Cc78B179",
+      "SafeMath": "0xb102c49cf0317F676a9950DD3B9436745F84fB39",
+      "TransferWithSigUtils": "0x8Cb27198DA2a14ec74e2d68732Bfa95c948Eab0A",
+      "Governance": "0x73a2137715F431DAc27a9B26cc991F2f39b6A22c",
+      "GovernanceProxy": "0x675162f45C7566E86e6261e40eF966cdDeddb8CC",
+      "Timelock": "",
+      "Registry": "0x07471540b1bfC37192654110189Bdc907e8B9525",
+      "RootChain": "0x81FADA3Ab7f998F0191C77f043c05eb55c789FE1",
+      "RootChainProxy": "0x32BC23e5FFf7D567313dB4F41A5125Ad9D9Bca63",
+      "ValidatorShareFactory": "0xD7379c8BBFBEBc743cfa0ebF398c80b39c937802",
+      "StakingInfo": "0x06FB27902B00a4CCF3850783dAB763364BF8654A",
+      "StakingNFT": "0x108E6890F660Dbe4f3554DC43769B4D734555981",
+      "StakeManager": "0x710c591d0862d33F1dBfC8555778F23709aEA53c",
+      "StakeManagerProxy": "0xc032E6C4D196CBf4CceddbA1d18661F7DD57f659",
+      "SlashingManager": "0xae032F1be5d139a679d975dB379E27aF2107D7D7",
+      "ValidatorShare": "0x2A53F2bb6023C262F34Ad936f10105fED67d13BB",
+      "StateSender": "0xE0C9051E655380D1d880b9B0f4b500cEbD09278f",
+      "DepositManager": "0x5C20eBdD45C0e2FFb394f41F310c9eB9CdBEaCD5",
+      "DepositManagerProxy": "0x81ebFB0c73d3165c4719E9604cDa55eF91226dAf",
+      "WithdrawManager": "0xa643b9C389B557695025DBBb775bC4942601C5Ab",
+      "WithdrawManagerProxy": "0x6e07F852bAC263492e8C710dB7c0d59275268db8",
+      "EventsHubProxy": "0x9Bc8dfB0e0565553f1464810cb67139Fc1DE87C1",
+      "ExitNFT": "",
+      "ERC20Predicate": "0xC0dA09523c92714d0Df17e72966B3B80f228df8e",
+      "ERC721Predicate": "0x02F08C48DaB9739C49A1F6C681B32fEFeCa9F1A9",
+      "EIP1559Burn": "",
+      "Tokens": {
+        "RamaWmatic": "0x3413e262742c22BeEd13f778C26cacBd726C3aa8",
+        "RamaToken": "0x55a5CC06801bBa4C030568f1A7ee1c753FDcbe36",
+        "TestToken": "0x738EC5f482302D2cb30B1938b8f25FCb85D214ef",
+        "RootERC721": "0x80E9FCD559001D1Af75883d8fc7CAf99bdab51Bf"
+      }
+    },
+    "POSContracts": {
+      "Merkle": "",
+      "MerklePatriciaProof": "",
+      "RLPReader": "",
+      "SafeERC20": "",
+      "SafeMath": "",
+      "RootChainManager": "",
+      "RootChainManagerProxy": "",
+      "ERC20Predicate": "",
+      "ERC20PredicateProxy": "",
+      "ERC721Predicate": "",
+      "ERC721PredicateProxy": "",
+      "ERC1155Predicate": "",
+      "ERC1155PredicateProxy": "",
+      "MintableERC20Predicate": "",
+      "MintableERC20PredicateProxy": "",
+      "MintableERC721Predicate": "",
+      "MintableERC721PredicateProxy": "",
+      "MintableERC1155Predicate": "",
+      "MintableERC1155PredicateProxy": "",
+      "EtherPredicate": "",
+      "EtherPredicateProxy": "",
+      "DummyStateSender": "",
+      "GasSwapper": "",
+      "Tokens": {
+        "DummyERC20": "",
+        "DummyERC721": "",
+        "DummyMintableERC721": "",
+        "DummyERC1155": ""
+      }
+    },
+    "FxPortalContracts": {
+      "FxRoot": "",
+      "FxERC20RootTunnel": "",
+      "FxERC721RootTunnel": "",
+      "FxERC1155RootTunnel": "",
+      "FxMintableERC20RootTunnel": "",
+      "Tokens": {
+        "FxERC20Root": "",
+        "FxERC721Root": "",
+        "FxERC1155Root": ""
+      }
+    }
+  },
+  "Rama": {
+    "NetworkName": "Ramestta",
+    "ChainId": 1370,
+    "RPC": "https://blockchain.ramestta.com",
+    "DaggerEndpoint": "",
+    "Explorer": "https://ramascan.com",
+    "NetworkAPI": "",
+    "SupportsEIP1559": true,
+    "Contracts": {
+      "ChildChain": "0xfE9abcBF139636208efbaf9214E79c4932491303",
+      "EIP1559Burn": "",
+      "Tokens": {
+        "RamaWmatic": "0x15585227a07371c5cEC7730D54A46C45090e367b",
+        "RamaToken": "0x0000000000000000000000000000000000001010",
+        "TestToken": "0xB4A44BD58072FD1d18626FFdc82936C22f571FB5",
+        "RootERC721": "0xE9cb4C5Dd318096dEC473342B3dE028442A464f1",
+        "WRAMA": ""
+      }
+    },
+    "POSContracts": {
+      "ChildChainManager": "",
+      "ChildChainManagerProxy": "",
+      "Tokens": {
+        "DummyERC20": "",
+        "DummyERC721": "",
+        "DummyMintableERC721": "",
+        "DummyERC1155": "",
+        "MaticWETH": ""
+      }
+    },
+    "FxPortalContracts": {
+      "FxChild": "",
+      "FxERC20ChildTunnel": "",
+      "FxERC721ChildTunnel": "",
+      "FxERC1155ChildTunnel": "",
+      "FxMintableERC20ChildTunnel": ""
+    },
+    "GenesisContracts": {
+      "BorValidatorSet": "0x0000000000000000000000000000000000001000",
+      "StateReceiver": "0x0000000000000000000000000000000000001001"
+    }
+  },
+  "Heimdall": {
+    "ChainId": "heimdall-1370",
+    "API": "https://latest-heimdall-api.ramestta.com"
+  }
+}

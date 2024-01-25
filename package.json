@@ -1,0 +1,24 @@
+{
+  "name": "@ramesttanetwork/meta",
+  "version": "1.0.0",
+  "description": "Ramestta network contracts' addresses and ABIs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blockchain-Ramestta/static.git"
+  },
+  "license": "GNU GPL",
+  "scripts": {
+    "minify": "bun run minify.js",
+    "prepublish": "bun run minify"
+  },
+  "bugs": {
+    "url": "https://github.com/Blockchain-Ramestta/static/issues"
+  },
+  "homepage": "https://github.com/Blockchain-Ramestta/static#readme",
+  "main": "./network/index.js",
+  "keywords": [
+    "meta",
+    "addresses",
+    "abi"
+  ]
+}
