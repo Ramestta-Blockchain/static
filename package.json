@@ -8,8 +8,8 @@
   },
   "license": "GNU GPL",
   "scripts": {
-    "minify": "bun run minify.js",
-    "prepublish": "bun run minify"
+    "minify": "node minify.js",
+    "prepublish": "npm run minify"
   },
   "bugs": {
     "url": "https://github.com/Blockchain-Ramestta/static/issues"
