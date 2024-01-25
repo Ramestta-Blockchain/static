@@ -1,6 +1,6 @@
 {
   "name": "@ramestta/meta",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ramestta network contracts' addresses and ABIs",
   "publishConfig": {
     "access": "public"
