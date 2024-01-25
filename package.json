@@ -2,7 +2,9 @@
   "name": "@ramesttanetwork/meta",
   "version": "1.0.0",
   "description": "Ramestta network contracts' addresses and ABIs",
-  "private":"false",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Blockchain-Ramestta/static.git"
