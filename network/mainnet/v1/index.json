@@ -5,7 +5,7 @@
     "DaggerEndpoint": "",
     "StakingAPI": "",
     "Explorer": "https://polygonscan.com",
-    "SubgraphUrl": "",
+    "SubgraphUrl": "https://api.studio.thegraph.com/query/67334/ramestta-root-subgraph/version/latest",
     "SupportsEIP1559": true,
     "Contracts": {
       "BytesLib": "0xa6479dEc21D912f98D6642eDE416784004b7e7E6",
@@ -49,34 +49,36 @@
       }
     },
     "POSContracts": {
-      "Merkle": "",
-      "MerklePatriciaProof": "",
-      "RLPReader": "",
+      "Merkle": "0x14568a02d226eb519d505902FF71c2aCF7713F0F",
+      "MerklePatriciaProof": "0x5213DC5ea2Db0FC869a96fd847B7902CD6B4AeFD",
+      "RLPReader": "0xADCb26Ba45B51Ce0B3bF33A52Bca8241Cc78B179",
       "SafeERC20": "",
-      "SafeMath": "",
-      "RootChainManager": "",
-      "RootChainManagerProxy": "",
-      "ERC20Predicate": "",
-      "ERC20PredicateProxy": "",
-      "ERC721Predicate": "",
-      "ERC721PredicateProxy": "",
-      "ERC1155Predicate": "",
-      "ERC1155PredicateProxy": "",
-      "MintableERC20Predicate": "",
-      "MintableERC20PredicateProxy": "",
-      "MintableERC721Predicate": "",
-      "MintableERC721PredicateProxy": "",
-      "MintableERC1155Predicate": "",
-      "MintableERC1155PredicateProxy": "",
-      "EtherPredicate": "",
-      "EtherPredicateProxy": "",
-      "DummyStateSender": "",
+      "SafeMath": "0xb102c49cf0317F676a9950DD3B9436745F84fB39",
+      "RootChainManager": "0xc8dfd2609bece6f1168095cb565d4aa8a2413acb",
+      "RootChainManagerProxy": "0x2Ae5273209337E9dcd7690165f6Cb0bee7F093F8",
+      "ERC20Predicate": "0x1858beFF0a90830e13dB750D58678D678Bfa6E04",
+      "ERC20PredicateProxy": "0x0A1Ff6c7A1655ef4e4BF77542EA9918FE81Ff97e",
+      "ERC721Predicate": "0x9e65A0808927E4184199b6DB30165c50d3316936",
+      "ERC721PredicateProxy": "0x0ca534e0CE62795D1cD20ab5d3a018fe60C9D57C",
+      "ERC1155Predicate": "0x4Af4107Bec8B24B47F32A01792855F5625c5e6cF",
+      "ERC1155PredicateProxy": "0xf7cbba602581686d4f38E93b4B3FDa713cb46dfE",
+      "MintableERC20Predicate": "0x788565449183daEC49488225bb11488d30E24316",
+      "MintableERC20PredicateProxy": "0x02f0E898e3B7aF88511B620878C26adC5AAC6A5d",
+      "MintableERC721Predicate": "0x7921728A26E2dF48B9AE12b48a7fD26044177111",
+      "MintableERC721PredicateProxy": "0x9030fca1263D2dE06eeD13864DE527Eb092c6136",
+      "MintableERC1155Predicate": "0x3b3c6518a26C0Ad0bD89C005286323b946543240",
+      "MintableERC1155PredicateProxy": "0xeB7ca47ea806635Ced20A22db1C3DcEe10b0f69a",
+      "EtherPredicate": "0x9BBCd4c31C7b84A2882E5D9F428b526C6381fB4C",
+      "EtherPredicateProxy": "0xFa95129057fD53A8C7f181589f20F85E4a4bB34e",
+      "DummyStateSender": "0x6622C7799aa0Ac3717a3E77b14d65d65C2e73388",
       "GasSwapper": "",
       "Tokens": {
-        "DummyERC20": "",
-        "DummyERC721": "",
-        "DummyMintableERC721": "",
-        "DummyERC1155": ""
+        "DummyERC20": "0x9f52bFc0b87f7F6A68E5FF485699A44Cd34bd9A7",
+        "DummyMintableERC20": "0xad7FA5b8d32540543fA0BEa8E215877fb0E46513",
+        "DummyERC721": "0x89b96Faa9046C5111ba3B43D4799c91c800f7e82",
+        "DummyMintableERC721": "0xA8595631A473d28b4Acdb0beEe712dB8227FAb20",
+        "DummyERC1155": "0x219280B65836f01c0c50D8Ba8963402cECDB5eA2",
+        "DummyMintableERC1155": "0x63B1f9a2A1104C7DC37ae3686AE2be5aBe4aa798"
       }
     },
     "FxPortalContracts": {
@@ -108,18 +110,20 @@
         "RamaToken": "0x0000000000000000000000000000000000001010",
         "TestToken": "0xB4A44BD58072FD1d18626FFdc82936C22f571FB5",
         "RootERC721": "0xE9cb4C5Dd318096dEC473342B3dE028442A464f1",
-        "WRAMA": ""
+        "WRAMA": "0x6C9C4c86a334a027C179f158354790f32574cf1C"
       }
     },
     "POSContracts": {
-      "ChildChainManager": "",
-      "ChildChainManagerProxy": "",
+      "ChildChainManager": "0xD9367B17e10c46Fa6fb9aAc6964a6B191eF04F85",
+      "ChildChainManagerProxy": "0xC8Dfd2609BeCE6f1168095cb565D4aa8A2413AcB",
       "Tokens": {
-        "DummyERC20": "",
-        "DummyERC721": "",
-        "DummyMintableERC721": "",
-        "DummyERC1155": "",
-        "MaticWETH": ""
+        "DummyERC20": "0xa6491CC496f693B640d7563a9F0f68c553bE28D1",
+        "DummyMintableERC20": "0x1f5890f42eb2362B98e1F17D57F5fE9C8dF5eF58",
+        "DummyERC721": "0x1858beFF0a90830e13dB750D58678D678Bfa6E04",
+        "DummyMintableERC721": "0x0A1Ff6c7A1655ef4e4BF77542EA9918FE81Ff97e",
+        "DummyERC1155": "0xD933b18Ec4788584d1e8694c16BCB4Bc81Cf0Db5",
+        "DummyMintableERC1155": "0x788565449183daEC49488225bb11488d30E24316",
+        "RamaWMATIC": "0x02f0E898e3B7aF88511B620878C26adC5AAC6A5d"
       }
     },
     "FxPortalContracts": {
